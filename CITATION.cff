@@ -1,0 +1,18 @@
+cff-version: "1.2.0"
+message: "If you use this repository in your research or work, please cite it using the metadata below."
+title: "learn-python"
+version: "0.1.0"
+date-released: "2025-10-26"
+url: "https://github.com/dileepadev/learn-python"
+authors:
+  - name: "dileepadev"
+    affiliation: "GitHub: dileepadev"
+keywords:
+  - python
+  - tutorials
+  - learning
+license: "MIT"
+abstract: |
+  A small repository for learning Python. Contains notes and examples to help
+  learners explore Python language features and common libraries.
+repository-code: "https://github.com/dileepadev/learn-python"
