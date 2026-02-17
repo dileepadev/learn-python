@@ -8,10 +8,17 @@ print(message)
 first_name = "Dileepa" # Double quotes
 last_name = 'Bandara' # Single quotes
 job_title = "Dileepa's Job is Developer" # Using single quotes inside double quotes
+address = 'Dileepa\'s Address is "123 Main St"' # Using escape character for single quote and double quotes inside single quotes
+description = '''Dileepa is a software developer.
+He loves coding and learning new technologies.''' # Triple quotes for multi-line string
+another_description = """Dileepa is a software developer.
+He loves coding and learning new technologies.""" # Triple double quotes for multi-line string
 
 print(first_name)
 print(last_name)
 print(job_title)
+print(description)
+print(another_description)
 
 print("My name is " + first_name + " " + last_name) # Concatenation
 print("My name is",first_name, last_name) # Comma separated
