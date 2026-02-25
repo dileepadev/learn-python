@@ -5,3 +5,4 @@
 3. [Variables](variables.py)
 4. [Operators](operators.py)
 5. [Strings](strings.py)
+6. [Lists](lists.py)
