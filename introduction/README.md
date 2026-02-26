@@ -6,3 +6,4 @@
 4. [Operators](operators.py)
 5. [Strings](strings.py)
 6. [Lists](lists.py)
+7. [Dictionaries](dictionaries.py)
