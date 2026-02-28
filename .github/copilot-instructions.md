@@ -23,5 +23,3 @@
     - [SECURITY.md](../SECURITY.md) - Security policy and reporting
     - [TODO.md](../TODO.md) - Tasks planned for future releases
     - [VERSIONING.md](../VERSIONING.md) - Versioning strategy for the project
-
-- When providing a commit message, always include code snippets formatted for **Zsh**.
