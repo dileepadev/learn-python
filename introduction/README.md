@@ -7,3 +7,5 @@
 5. [Strings](strings.py)
 6. [Lists](lists.py)
 7. [Dictionaries](dictionaries.py)
+8. [Sets](sets.py)
+9. [Tuples](tuples.py)
